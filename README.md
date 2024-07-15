@@ -1,3 +1,3 @@
 # ubbi-demi
-asdfghjkl
+first git learn
 author ubbi
